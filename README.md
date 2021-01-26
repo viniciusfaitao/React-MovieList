@@ -1,17 +1,19 @@
-# Getting Started with Create React App
+# Ecommerce <br/>
+Nesta aplicação utilizamos React e a API http://www.omdbapi.com para criar uma simples lista de filmes com busca como estudo.
 
-## Available Scripts
+Linguagem utilizada: <br/><br/>
+• React :heavy_check_mark:
+
+Pacotes de recursos utilizados: <br/><br/>
+• Styled Components :heavy_check_mark:
+• Axios :heavy_check_mark:
+
+## Instalações e uso
+
+Instalação
 
 ### `npm install`
 
-Installs the dependencies the project needs to run properly, such as react and styled-components.
-
-In the project directory, you can run:
+Iniciar aplicação
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
