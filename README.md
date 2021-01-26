@@ -5,7 +5,7 @@ Linguagem utilizada: <br/><br/>
 • React :heavy_check_mark:
 
 Pacotes de recursos utilizados: <br/><br/>
-• Styled Components :heavy_check_mark:
+• Styled Components :heavy_check_mark:  <br/>
 • Axios :heavy_check_mark:
 
 ## Instalações e uso
